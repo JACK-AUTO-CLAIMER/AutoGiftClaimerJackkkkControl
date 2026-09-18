@@ -1,0 +1,8 @@
+[
+  {
+    "key": "ABC12345",
+    "device_id": "USER_KA_DEVICE_ID",
+    "expirydate": "2026-12-31",
+    "Allowoffline": false
+  }
+]
