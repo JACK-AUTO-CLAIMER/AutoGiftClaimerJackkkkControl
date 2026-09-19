@@ -1,8 +1,8 @@
 [
   {
-    "key": "ABC12345",
-    "device_id": "USER_KA_DEVICE_ID",
+    "key": "Me",
+    "device_id": "CC7EAFA877294985",
     "expirydate": "2026-12-31",
-    "Allowoffline": false
+    "Allowoffline": true
   }
 ]
