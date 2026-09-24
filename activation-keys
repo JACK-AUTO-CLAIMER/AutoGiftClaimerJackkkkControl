@@ -2,7 +2,7 @@
   {
     "key": "Beastdeep1x-DIPAK",
     "device_id": "D5250A0527E2E32F",
-    "expirydate": "26-12-2029",
+    "expirydate": "27-09-2026",
     "Allowoffline": "false"
   },
 {
@@ -14,25 +14,25 @@
 {
     "key": "Beastdeep1x-Me",
     "device_id": "C7AB8EBE5E26DE8D",
-    "expirydate": "26-12-2030",
+    "expirydate": "27-12-2030",
     "Allowoffline": false
   },
 {
     "key": "Beastdeep1x-NINJA",
     "device_id": "516BFD81DBFD948A",
-    "expirydate": "26-12-2030",
+    "expirydate": "27-09-2026",
     "Allowoffline": false
   },
 {
     "key": "Beastdeep1x-KILLER",
     "device_id": "07DDA741A9157093",
-    "expirydate": "26-12-2030",
+    "expirydate": "27-09-2026",
     "Allowoffline": false
   },
 {
     "key": "Beastdeep1x-TUTU",
     "device_id": "E3C0413E22FC78E0",
-    "expirydate": "26-12-2030",
+    "expirydate": "27-09-2026",
     "Allowoffline": false
   }
 ]
