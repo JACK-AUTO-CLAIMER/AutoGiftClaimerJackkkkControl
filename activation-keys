@@ -34,5 +34,11 @@
     "device_id": "E3C0413E22FC78E0",
     "expirydate": "27-09-2026",
     "Allowoffline": false
+  },
+{
+    "key": "SUMAN",
+    "device_id": "7E9690535A0E831E",
+    "expirydate": "27-09-2026",
+    "Allowoffline": false
   }
 ]
