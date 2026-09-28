@@ -14,7 +14,7 @@
 {
     "key": "Beastdeep1x-GBD",
     "device_id": "76B8446F37FA8274",
-    "expirydate": "27-12-2030",
+    "expirydate": "01-11-2026",
     "Allowoffline": false
   },
 {
@@ -30,15 +30,15 @@
     "Allowoffline": false
   },
 {
-    "key": "SUMAN",
-    "device_id": "7E9690535A0E831E",
-    "expirydate": "27-09-2026",
-    "Allowoffline": false
-  },
-{
     "key": "Beastdeep1x-AMIT",
     "device_id": "953CB6DCEF987793",
     "expirydate": "01-10-2026",
+    "Allowoffline": false
+  },
+{
+    "key": "NINJA",
+    "device_id": "AE4BE0CC5F17A626",
+    "expirydate": "01-11-2026",
     "Allowoffline": false
   }
 ]
