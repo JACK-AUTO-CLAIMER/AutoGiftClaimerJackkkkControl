@@ -1,7 +1,7 @@
 {
   "buttons": {
     "tg_monitor": true,
-    "notif": true,
+    "notif": false,
     "fire_delay": true,
     "setup_tg": true,
     "official_tg_api": true,
