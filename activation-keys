@@ -40,5 +40,11 @@
     "device_id": "953CB6DCEF987793",
     "expirydate": "01-10-2026",
     "Allowoffline": false
+  },
+{
+    "key": "PABITRA",
+    "device_id": "F771FB0055952C5E",
+    "expirydate": "01-10-2026",
+    "Allowoffline": false
   }
 ]
