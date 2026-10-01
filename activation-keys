@@ -24,12 +24,6 @@
     "Allowoffline": false
   },
 {
-    "key": "Beastdeep1x-TUTU",
-    "device_id": "E3C0413E22FC78E0",
-    "expirydate": "01-11-2026",
-    "Allowoffline": false
-  },
-{
     "key": "NINJA",
     "device_id": "AE4BE0CC5F17A626",
     "expirydate": "01-11-2026",
@@ -45,6 +39,12 @@
     "key": "PABITRA",
     "device_id": "F771FB0055952C5E",
     "expirydate": "01-10-2026",
+    "Allowoffline": false
+  },
+{
+    "key": "Beastdeep1x-TUTU",
+    "device_id": "E3C0413E22FC78E0",
+    "expirydate": "01-11-2026",
     "Allowoffline": false
   }
 ]
