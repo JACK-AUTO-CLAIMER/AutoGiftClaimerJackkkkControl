@@ -14,19 +14,19 @@
 {
     "key": "Beastdeep1x-GBD",
     "device_id": "76B8446F37FA8274",
-    "expirydate": "01-11-2026",
+    "expirydate": "01-11-2030",
     "Allowoffline": false
   },
 {
     "key": "Beastdeep1x-KILLER",
     "device_id": "07DDA741A9157093",
-    "expirydate": "01-11-2026",
+    "expirydate": "01-11-2030",
     "Allowoffline": false
   },
 {
     "key": "NINJA",
     "device_id": "AE4BE0CC5F17A626",
-    "expirydate": "01-11-2026",
+    "expirydate": "01-11-2030",
     "Allowoffline": false
   },
 {
@@ -38,13 +38,13 @@
 {
     "key": "PABITRA",
     "device_id": "F771FB0055952C5E",
-    "expirydate": "01-10-2026",
+    "expirydate": "01-10-2030",
     "Allowoffline": false
   },
 {
-    "key": "Beastdeep1x-TUTU",
+    "key": "Beastdeep1x-TuTU",
     "device_id": "E3C0413E22FC78E0",
-    "expirydate": "01-11-2027",
+    "expirydate": "01-11-2030",
     "Allowoffline": false
   }
 ]
