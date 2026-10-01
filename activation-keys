@@ -1,10 +1,4 @@
 0[
-  {
-    "key": "Beastdeep1x-DIPAK",
-    "device_id": "D5250A0527E2E32F",
-    "expirydate": "01-10-2026",
-    "Allowoffline": "false"
-  },
 {
     "key": "Beastdeep1x-Bro",
     "device_id": "502D43BC310CB8F3",
@@ -27,12 +21,6 @@
     "key": "NINJA",
     "device_id": "AE4BE0CC5F17A626",
     "expirydate": "01-11-2030",
-    "Allowoffline": false
-  },
-{
-    "key": "Beastdeep1x-AMIT",
-    "device_id": "953CB6DCEF987793",
-    "expirydate": "01-10-2016",
     "Allowoffline": false
   },
 {
