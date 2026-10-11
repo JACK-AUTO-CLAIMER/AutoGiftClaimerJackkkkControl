@@ -24,7 +24,7 @@
     "Allowoffline": false
   },
 {
-    "key": "PABIITRA",
+    "key": "PABITRA",
     "device_id": "F771FB0055952C5E",
     "expirydate": "12-11-2030",
     "Allowoffline": false
@@ -44,6 +44,12 @@
 {
     "key": "Beastdeep1x-Rajesh",
     "device_id": "1809E0500C080DFC",
+    "expirydate": "01-11-2030",
+    "Allowoffline": false
+  },
+{
+    "key": "Beastdeep1x-Subhajit",
+    "device_id": "80059891B9D6C211",
     "expirydate": "01-11-2030",
     "Allowoffline": false
   }
